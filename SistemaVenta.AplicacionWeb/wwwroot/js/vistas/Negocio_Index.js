@@ -20,7 +20,7 @@ $(document).ready(function () {
                 $("#txTelefono").val(d.telefono)
                 $("#txtImpuesto").val(d.porcentajeImpuesto)
                 $("#txtSimboloMoneda").val(d.simboloMoneda)
-                $("#txtLogo").attr("src", d.urlLogo)
+                $("#imgLogo").attr("src", d.urlLogo)
             } else {
                 swal("Lo sentimos", responseJson.mensaje, "error")
             }
@@ -71,8 +71,8 @@ $("#btnGuardarCambios").click(function () {
 
             if (responseJson.estado) {
                 const d = responseJson.objeto
-
-                $("#imgLogo").attr("src",d.urlLogo)
+                
+                $("#imgLogo").attr("src", d.urlLogo)
 
             } else {
                 swal("Lo sentimos", responseJson.mensaje, "error")
