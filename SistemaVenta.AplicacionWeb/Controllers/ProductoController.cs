@@ -6,7 +6,7 @@ using SistemaVenta.AplicacionWeb.Models.ViewModels;
 using SistemaVenta.AplicacionWeb.Utilidades.Response;
 using SistemaVenta.BLL.Interfaces;
 using SistemaVenta.Entity;
-using System.Collections.Generic;
+
 
 namespace SistemaVenta.AplicacionWeb.Controllers
 {
@@ -33,7 +33,7 @@ namespace SistemaVenta.AplicacionWeb.Controllers
             return StatusCode(StatusCodes.Status200OK, new { data = vmProductoLista });           
         }
 
-        [HttpPut]
+        [HttpPost]
         public async Task<IActionResult> Crear([FromForm] IFormFile imagen, [FromForm] string modelo)
         {
             GenericResponse<VMProducto> gResponse = new GenericResponse<VMProducto>();
@@ -63,10 +63,10 @@ namespace SistemaVenta.AplicacionWeb.Controllers
                 gResponse.Mensaje = ex.Message;
             }
             
-            return StatusCode(StatusCodes.Status200OK);
+            return StatusCode(StatusCodes.Status200OK, gResponse);
         }
 
-        [HttpPost]
+        [HttpPut]
         public async Task<IActionResult> Editar([FromForm] IFormFile imagen, [FromForm] string modelo)
         {
             GenericResponse<VMProducto> gResponse = new GenericResponse<VMProducto>();
@@ -74,14 +74,17 @@ namespace SistemaVenta.AplicacionWeb.Controllers
             try
             {
                 VMProducto vmProducto = JsonConvert.DeserializeObject<VMProducto>(modelo);
-               
+                string nombreImagen = "";
                 Stream imagenStream = null;
 
                 if (imagen != null)
                 {
+                    string nombre_en_codigo = Guid.NewGuid().ToString("N");
+                    string extension = Path.GetExtension(imagen.FileName);
+                    nombreImagen = string.Concat(nombre_en_codigo, extension);
                     imagenStream = imagen.OpenReadStream();
                 }
-                Producto producto_editado = await _productoServicio.Editar(_mapper.Map<Producto>(vmProducto), imagenStream);
+                Producto producto_editado = await _productoServicio.Editar(_mapper.Map<Producto>(vmProducto), imagenStream, nombreImagen);
                 vmProducto = _mapper.Map<VMProducto>(producto_editado);
 
                 gResponse.Estado = true;
@@ -93,7 +96,7 @@ namespace SistemaVenta.AplicacionWeb.Controllers
                 gResponse.Mensaje = ex.Message;
             }
 
-            return StatusCode(StatusCodes.Status200OK);
+            return StatusCode(StatusCodes.Status200OK, gResponse);
         }
         
         [HttpDelete]
@@ -111,7 +114,7 @@ namespace SistemaVenta.AplicacionWeb.Controllers
                 gResponse.Mensaje = ex.Message;
             }
 
-            return StatusCode(StatusCodes.Status200OK);
+            return StatusCode(StatusCodes.Status200OK, gResponse);
         }
 
     }
