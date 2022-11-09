@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {}
+    "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+    "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
         "projectName": "SistemaVenta.BLL",
-        "projectPath": "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
-        "packagesPath": "C:\\Users\\Paul Vargas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.BLL\\obj\\",
+        "projectPath": "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+        "packagesPath": "C:\\Users\\Gidel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.BLL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Paul Vargas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Gidel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -28,11 +34,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
-                "projectPath": "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+              "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+                "projectPath": "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
               },
-              "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
-                "projectPath": "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
+              "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
+                "projectPath": "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
               }
             }
           }
@@ -72,22 +78,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+    "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
         "projectName": "SistemaVenta.DAL",
-        "projectPath": "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
-        "packagesPath": "C:\\Users\\Paul Vargas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.DAL\\obj\\",
+        "projectPath": "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+        "packagesPath": "C:\\Users\\Gidel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Paul Vargas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Gidel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -100,8 +112,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
-                "projectPath": "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
+              "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
+                "projectPath": "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
               }
             }
           }
@@ -131,22 +143,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
+    "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
         "projectName": "SistemaVenta.Entity",
-        "projectPath": "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
-        "packagesPath": "C:\\Users\\Paul Vargas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.Entity\\obj\\",
+        "projectPath": "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+        "packagesPath": "C:\\Users\\Gidel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.Entity\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Paul Vargas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Gidel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -198,22 +216,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
+    "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+        "projectUniqueName": "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
         "projectName": "SistemaVenta.IOC",
-        "projectPath": "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
-        "packagesPath": "C:\\Users\\Paul Vargas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.IOC\\obj\\",
+        "projectPath": "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+        "packagesPath": "C:\\Users\\Gidel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.IOC\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Paul Vargas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Gidel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -226,11 +250,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
-                "projectPath": "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+              "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+                "projectPath": "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
               },
-              "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
-                "projectPath": "C:\\Users\\Paul Vargas\\Source\\Repos\\AmericaVip\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+              "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+                "projectPath": "C:\\Users\\Gidel\\Desktop\\CICLO X\\EVOLUCIÓN Y CONFIGURAC. SOFT\\Proyecto\\Proyecto Web\\AmericaVip\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
               }
             }
           }
@@ -260,7 +284,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
