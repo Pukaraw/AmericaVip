@@ -28,6 +28,12 @@ namespace SistemaVenta.AplicacionWeb.Controllers
 
             return View();
         }
+        public IActionResult RestablecerClave()
+        {
+
+
+            return View();
+        }
         [HttpPost]
         public async Task<IActionResult> Login(VMUsuarioLogin modelo)
         {
@@ -64,6 +70,34 @@ namespace SistemaVenta.AplicacionWeb.Controllers
                 );
 
             return RedirectToAction("Index", "Home");
+        }
+        [HttpPost]
+        public async Task<IActionResult> RestablecerClave(VMUsuarioLogin modelo)
+        {
+            try
+            {
+                string urlPlantillaCorreo = $"{this.Request.Scheme}://{this.Request.Host}/Plantilla/RestablecerClave?clave=[clave]";
+                bool resultado = await _usuarioServicio.RestablecerClave(modelo.Correo, urlPlantillaCorreo);
+
+                if (resultado)
+                {
+                    ViewData["Mensaje"] = "Listo, su constraseña fue restablecida. Revise su correo";
+                    ViewData["MensajeError"] = null;
+                }
+                else
+                {
+                    ViewData["MensajeError"] = "Tenemos problemas. Por favor intentelo de nuevo mas tarde";
+                    ViewData["Mensaje"] = null;
+                }
+            }
+            catch(Exception ex)
+            {
+                ViewData["MensajeError"] = ex.Message;
+                ViewData["Mensaje"] = null;
+            }
+
+
+            return View();
         }
     }
 }
