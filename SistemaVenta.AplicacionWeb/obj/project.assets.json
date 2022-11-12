@@ -9960,19 +9960,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nik-m\\.nuget\\packages\\": {}
+    "C:\\Users\\Paul Vargas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nik-m\\source\\Repos\\Pukaraw\\AmericaVip\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Paul Vargas\\source\\repos\\Pukaraw\\AmericaVip\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
       "projectName": "SistemaVenta.AplicacionWeb",
-      "projectPath": "C:\\Users\\nik-m\\source\\Repos\\Pukaraw\\AmericaVip\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
-      "packagesPath": "C:\\Users\\nik-m\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nik-m\\Source\\Repos\\Pukaraw\\AmericaVip\\SistemaVenta.AplicacionWeb\\obj\\",
+      "projectPath": "C:\\Users\\Paul Vargas\\source\\repos\\Pukaraw\\AmericaVip\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
+      "packagesPath": "C:\\Users\\Paul Vargas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Paul Vargas\\source\\repos\\Pukaraw\\AmericaVip\\SistemaVenta.AplicacionWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nik-m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Paul Vargas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9986,14 +9986,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\nik-m\\source\\Repos\\Pukaraw\\AmericaVip\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
-              "projectPath": "C:\\Users\\nik-m\\source\\Repos\\Pukaraw\\AmericaVip\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+            "C:\\Users\\Paul Vargas\\source\\repos\\Pukaraw\\AmericaVip\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+              "projectPath": "C:\\Users\\Paul Vargas\\source\\repos\\Pukaraw\\AmericaVip\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
             },
-            "C:\\Users\\nik-m\\source\\Repos\\Pukaraw\\AmericaVip\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
-              "projectPath": "C:\\Users\\nik-m\\source\\Repos\\Pukaraw\\AmericaVip\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
+            "C:\\Users\\Paul Vargas\\source\\repos\\Pukaraw\\AmericaVip\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
+              "projectPath": "C:\\Users\\Paul Vargas\\source\\repos\\Pukaraw\\AmericaVip\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
             },
-            "C:\\Users\\nik-m\\source\\Repos\\Pukaraw\\AmericaVip\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
-              "projectPath": "C:\\Users\\nik-m\\source\\Repos\\Pukaraw\\AmericaVip\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj"
+            "C:\\Users\\Paul Vargas\\source\\repos\\Pukaraw\\AmericaVip\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
+              "projectPath": "C:\\Users\\Paul Vargas\\source\\repos\\Pukaraw\\AmericaVip\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj"
             }
           }
         }
@@ -10040,7 +10040,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

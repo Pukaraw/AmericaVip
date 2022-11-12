@@ -43,3 +43,18 @@ C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.DAL\obj\Debug\net6.0
 C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.DAL\obj\Debug\net6.0\refint\SistemaVenta.DAL.dll
 C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.pdb
 C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.DAL\obj\Debug\net6.0\ref\SistemaVenta.DAL.dll
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.deps.json
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.AssemblyInfo.cs
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.CopyComplete
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.dll
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.DAL\obj\Debug\net6.0\refint\SistemaVenta.DAL.dll
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.DAL\obj\Debug\net6.0\ref\SistemaVenta.DAL.dll

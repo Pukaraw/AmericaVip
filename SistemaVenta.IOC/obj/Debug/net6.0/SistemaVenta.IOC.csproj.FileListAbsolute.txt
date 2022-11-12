@@ -55,3 +55,22 @@ C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.IOC\obj\Debug\net6.0
 C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.IOC\obj\Debug\net6.0\refint\SistemaVenta.IOC.dll
 C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.IOC\obj\Debug\net6.0\SistemaVenta.IOC.pdb
 C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.IOC\obj\Debug\net6.0\ref\SistemaVenta.IOC.dll
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.IOC\bin\Debug\net6.0\SistemaVenta.IOC.deps.json
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.IOC\bin\Debug\net6.0\SistemaVenta.IOC.dll
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.IOC\bin\Debug\net6.0\SistemaVenta.IOC.pdb
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.IOC\bin\Debug\net6.0\SistemaVenta.BLL.dll
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.IOC\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.IOC\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.IOC\bin\Debug\net6.0\SistemaVenta.BLL.pdb
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.IOC\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.IOC\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.IOC\obj\Debug\net6.0\SistemaVenta.IOC.csproj.AssemblyReference.cache
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.IOC\obj\Debug\net6.0\SistemaVenta.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.IOC\obj\Debug\net6.0\SistemaVenta.IOC.AssemblyInfoInputs.cache
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.IOC\obj\Debug\net6.0\SistemaVenta.IOC.AssemblyInfo.cs
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.IOC\obj\Debug\net6.0\SistemaVenta.IOC.csproj.CoreCompileInputs.cache
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.IOC\obj\Debug\net6.0\SistemaVenta.IOC.csproj.CopyComplete
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.IOC\obj\Debug\net6.0\SistemaVenta.IOC.dll
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.IOC\obj\Debug\net6.0\refint\SistemaVenta.IOC.dll
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.IOC\obj\Debug\net6.0\SistemaVenta.IOC.pdb
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.IOC\obj\Debug\net6.0\ref\SistemaVenta.IOC.dll
