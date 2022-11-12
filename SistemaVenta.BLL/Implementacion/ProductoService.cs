@@ -15,12 +15,12 @@ namespace SistemaVenta.BLL.Implementacion
     public class ProductoService : IProductoService
     {
         private readonly IGenericRepository<Producto> _repositorio;
-        private readonly IFireBaseService _firebaseServicio;
+        private readonly IFireBaseService _fireBaseServicio;
 
-        public ProductoService(IGenericRepository<Producto> repositorio, IFireBaseService firebaseServicio)
+        public ProductoService(IGenericRepository<Producto> repositorio, IFireBaseService fireBaseServicio)
         {
             _repositorio = repositorio;
-            _firebaseServicio = firebaseServicio;
+            _fireBaseServicio = fireBaseServicio;
         }
         public async Task<List<Producto>> Lista()
         {
@@ -40,7 +40,7 @@ namespace SistemaVenta.BLL.Implementacion
                 entidad.NombreImagen = NombreImagen;
                 if (imagen != null)
                 {
-                    string urlImagen = await _firebaseServicio.SubirStorage(imagen, "carpeta_producto", NombreImagen);
+                    string urlImagen = await _fireBaseServicio.SubirStorage(imagen, "carpeta_producto", NombreImagen);
                     entidad.UrlImagen = urlImagen;
 
                 }
@@ -58,7 +58,7 @@ namespace SistemaVenta.BLL.Implementacion
             }
         }
 
-        public async Task<Producto> Editar(Producto entidad, Stream imagen = null)
+        public async Task<Producto> Editar(Producto entidad, Stream imagen = null, string NombreImagen = "")
         {
             Producto producto_existe = await _repositorio.Obtener(p => p.CodigoBarra == entidad.CodigoBarra && p.IdProducto != entidad.IdProducto);
 
@@ -77,10 +77,16 @@ namespace SistemaVenta.BLL.Implementacion
                 producto_para_editar.Stock = entidad.Stock;
                 producto_para_editar.Precio = entidad.Precio;
                 producto_para_editar.EsActivo = entidad.EsActivo;
+                
+                if(producto_para_editar.NombreImagen == "")
+                {
+                    producto_para_editar.NombreImagen = NombreImagen;
+                }
+                
 
                 if (imagen != null)
                 {
-                    string urlImagen = await _firebaseServicio.SubirStorage(imagen, "carpeta_producto", producto_para_editar.NombreImagen);
+                    string urlImagen = await _fireBaseServicio.SubirStorage(imagen, "carpeta_producto", producto_para_editar.NombreImagen);
                     producto_para_editar.UrlImagen = urlImagen;
                 }
                 bool respuesta = await _repositorio.Editar(producto_para_editar);
@@ -107,7 +113,7 @@ namespace SistemaVenta.BLL.Implementacion
                 string nombreImagen = producto_encontrado.NombreImagen;
                 bool respuesta = await _repositorio.Eliminar(producto_encontrado);
                 if (respuesta)
-                    await _firebaseServicio.EliminarStorage("carpeta_producto", nombreImagen);
+                    await _fireBaseServicio.EliminarStorage("carpeta_producto", nombreImagen);
                 return true;
             }
             catch

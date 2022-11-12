@@ -25,3 +25,31 @@ C:\Users\nik-m\OneDrive\Documents\Visual Studio 2022\SolucionSistemaVenta\Sistem
 C:\Users\nik-m\OneDrive\Documents\Visual Studio 2022\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
 C:\Users\nik-m\OneDrive\Documents\Visual Studio 2022\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
 C:\Users\nik-m\OneDrive\Documents\Visual Studio 2022\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll
+C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.deps.json
+C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.runtimeconfig.json
+C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\refint\SistemaVenta.Entity.dll
+C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Users\nik-m\source\Repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.deps.json
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.runtimeconfig.json
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\refint\SistemaVenta.Entity.dll
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Users\Paul Vargas\source\repos\Pukaraw\AmericaVip\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll
