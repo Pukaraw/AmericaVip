@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "yjPAsSoDRMMwCp7ohZ9cupz26H6NVZcqUlQiBFQnVQivJCvXShgEGlEP+CQJgKEbVn6kRHqpwq8+6/YsURXmiA==",
+  "dgSpecHash": "mrbRONNXo2i5xNHwzk9GWWtrMXiFbthDy68iX4atwP0AEaWEufrBL90RUMLXJA+FEneN5gTRAlX7izblWt8Iug==",
   "success": true,
   "projectFilePath": "C:\\Users\\nik-m\\OneDrive\\Documents\\Visual Studio 2022\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nik-m\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\nik-m\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\nik-m\\.nuget\\packages\\dinktopdf\\1.0.8\\dinktopdf.1.0.8.nupkg.sha512",
     "C:\\Users\\nik-m\\.nuget\\packages\\firebaseauthentication.net\\3.7.2\\firebaseauthentication.net.3.7.2.nupkg.sha512",
     "C:\\Users\\nik-m\\.nuget\\packages\\firebasestorage.net\\1.0.3\\firebasestorage.net.1.0.3.nupkg.sha512",
     "C:\\Users\\nik-m\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
@@ -172,6 +173,7 @@
     "C:\\Users\\nik-m\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\nik-m\\.nuget\\packages\\system.threading.tasks.dataflow\\4.9.0\\system.threading.tasks.dataflow.4.9.0.nupkg.sha512",
     "C:\\Users\\nik-m\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\nik-m\\.nuget\\packages\\system.threading.thread\\4.0.0\\system.threading.thread.4.0.0.nupkg.sha512",
     "C:\\Users\\nik-m\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\nik-m\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\nik-m\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
