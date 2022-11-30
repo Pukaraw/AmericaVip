@@ -42,7 +42,7 @@ namespace SistemaVenta.AplicacionWeb.Controllers
 
             if (usuario_encontrado == null)
             {
-                ViewData["Mensaje"] = "No se ha encontrado coincidencias";
+                ViewData["Mensaje"] = "No se encontraron coincidencias";
                 return View();
             }
 

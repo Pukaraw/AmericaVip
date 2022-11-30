@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5bUvfB+G37UsoF5Ng64vD77DONuxpO7mpOXRZZeOpQk=",
+  "Hash": "XX5Q8Ya0rIpqre17Abow2jicL1fxcT0kAmY8og7rcyI=",
   "Source": "SistemaVenta.AplicacionWeb",
   "BasePath": "_content/SistemaVenta.AplicacionWeb",
   "Mode": "Default",
@@ -338,6 +338,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\vistas\\Historial_Venta.js"
+    },
+    {
+      "Identity": "C:\\Users\\nik-m\\OneDrive\\Documents\\Visual Studio 2022\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Home_Perfil.js",
+      "SourceId": "SistemaVenta.AplicacionWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nik-m\\OneDrive\\Documents\\Visual Studio 2022\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\",
+      "BasePath": "_content/SistemaVenta.AplicacionWeb",
+      "RelativePath": "js/vistas/Home_Perfil.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\vistas\\Home_Perfil.js"
     },
     {
       "Identity": "C:\\Users\\nik-m\\OneDrive\\Documents\\Visual Studio 2022\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Negocio_Index.js",
