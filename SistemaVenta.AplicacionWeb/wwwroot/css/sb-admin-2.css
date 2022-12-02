@@ -10916,22 +10916,24 @@ a:focus {
 }
 
 .bg-login-image {
-  background: url("https://images.unsplash.com/photo-1541574823565-f1d660886187?w=600");
-  /* background: url("https://source.unsplash.com/K4mSJ7kc0As/600x800"); */
-  background-position: center;
-  background-size: cover;
+    /*background: url("https://images.unsplash.com/photo-1541574823565-f1d660886187?w=600");*/
+    /* background: url("https://source.unsplash.com/K4mSJ7kc0As/600x800"); */
+    background: url("https://firebasestorage.googleapis.com/v0/b/americavip.appspot.com/o/IMAGENES_LOGO%2Flogin8.jpg?alt=media&token=ca38541e-48f2-4d2d-bf6b-b4600b7c1d4f");
+    background-position: center;
+    background-size: cover;
 }
 
 .bg-register-image {
-  background: url("https://images.unsplash.com/photo-1541574823565-f1d660886187?w=600");
-  background-position: center;
-  background-size: cover;
+    background: url("https://images.unsplash.com/photo-1541574823565-f1d660886187?w=600");
+    background-position: center;
+    background-size: cover;
 }
 
 .bg-password-image {
-  background: url("https://images.unsplash.com/photo-1541574823565-f1d660886187?w=600");
-  background-position: center;
-  background-size: cover;
+    /*background: url("https://images.unsplash.com/photo-1541574823565-f1d660886187?w=600");*/
+    background: url("https://firebasestorage.googleapis.com/v0/b/americavip.appspot.com/o/IMAGENES_LOGO%2Flogin8.jpg?alt=media&token=ca38541e-48f2-4d2d-bf6b-b4600b7c1d4f");
+    background-position: center;
+    background-size: cover;
 }
 
 form.user .custom-checkbox.small label {
